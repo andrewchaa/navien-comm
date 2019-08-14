@@ -5,4 +5,4 @@ Navien UK와 협업을 위한 공간입니다.
 
 # Releases
 
-* [Release 2019.08.14](/releases/2019.08.14.md)
+* [Release as of 2019.08.14](/releases/2019.08.14.md)
