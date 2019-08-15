@@ -21,4 +21,3 @@ DEEPEYES ![Sekyee](https://github.com/andrewchaa/navienapp/blob/master/assets/ic
 ## Releases
 
 * [Release as of 2019.08.14](/releases/2019.08.14.md)
-* [Release as of 2019.08.14-1](/releases/2019.08.14.md)
