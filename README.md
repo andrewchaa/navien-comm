@@ -13,8 +13,10 @@ Welcome to Navienuk Product Registration Mobile App Development Project. [Code R
 DEEPEYES ![Sekyee](https://github.com/andrewchaa/navienapp/blob/master/assets/icons/SEKYEE%20copy.png) ![Dintent](https://github.com/andrewchaa/navienapp/blob/master/assets/icons/DINTENT%20LOGO_WEB%20DEMO-05-grey.png)
 
 
+## Communication
 
-**Need Help?** Please join this [gitter real-time chat](https://gitter.im/thecodepath/public) or the [google groups](https://groups.google.com/forum/#!forum/codepath-android-guides) for these guides where you can post related questions. You can also [get 1:1 mentorship online](https://www.codementor.io/android-experts) through codementor.
+We have 1:1 chat room to discuss any issues. 
+[gitter real-time chat](https://gitter.im/navienuk/community)
 
 
 
