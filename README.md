@@ -22,5 +22,5 @@ We have 1:1 chat room to discuss any issues.
 
 ## Releases
 
-* [Release as of 2019.08.19](/releases/2019.08.19.md)
-* [Release as of 2019.08.14](/releases/2019.08.14.md)
+* [Release - 2019.08.19](/releases/2019.08.19.md)
+* [Release - 2019.08.14](/releases/2019.08.14.md)
