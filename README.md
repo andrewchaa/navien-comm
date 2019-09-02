@@ -25,6 +25,7 @@ We have 1:1 chat room to discuss any issues.
 * [Release - 2019.08.19](/releases/2019.08.19.md)
 * [Release - 2019.08.14](/releases/2019.08.14.md)
 * [Release - 2019.08.26](/releases/2019.08.28.md)
+* [Release - 2019.09.02](/releases/2019.09.02.md)
 
 ## How to install 
 ### Android
